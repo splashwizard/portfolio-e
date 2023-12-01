@@ -2,7 +2,7 @@
 date: '1'
 title: 'Zoolife'
 cover: './zoolife.png'
-github: 'https://github.com/bhsejawal/zl-repo'
+github: 'https://github.com/splashwizard/zl-repo'
 external: 'https://zoolife.tv/'
 tech:
   - React

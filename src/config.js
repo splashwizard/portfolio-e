@@ -6,10 +6,6 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/splashwizard',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/brent-d-022aa217b',
-    },
   ],
 
   navLinks: [

@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Mileiko and I enjoy creating things that live on the internet. My
+              Hello! My name is Paul and I enjoy creating things that live on the internet. My
               interest in web development started back in 2013 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS!

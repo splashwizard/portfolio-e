@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/splashwizard/portfolio">
+        <a href="https://github.com/splashwizard">
           <div>Designed &amp; Built by Paul Zeng</div>
 
           {githubInfo.stars && githubInfo.forks && (

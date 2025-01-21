@@ -1,12 +1,14 @@
 ---
-date: '2019-12-21'
-title: 'Full stack developer'
+date: '2017-10-21'
+title: 'React developer'
 company: 'ROG Security, Inc'
 location: 'Walnut, CA'
-range: 'December 2019 - April 2021'
+range: 'Oct 2017 - Jun 2019'
 url: 'https://gorog.co/'
 ---
 
--	Built an IP Camera Thread Detection web app to allow admins monitor camera screens and draw areas to protect parts and notify when user comes
--	Fixed all the bugs in Asana and improved the web app performance
--	Oversaw full lifecycle of software development and guided other 2 developers
+-	Implemented the camera monitoring system using React and Storybook, resulting in s 60% increase in UI consistency across projects.
+-	Optimized React components using memorization and PureComponents, which led to a measurable 15% speed-up in rendering performance.
+-	Handle change requests and documentation, and provide second-level support.
+-	Advocated for the adoption of ES6+ syntax within the team, leading to more robust and maintainable code.
+

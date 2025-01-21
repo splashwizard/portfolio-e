@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/splashwizard">
-          <div>Designed &amp; Built by Paul Zeng</div>
+          <div>Designed &amp; Built by Paul E</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
